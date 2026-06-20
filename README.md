@@ -12,5 +12,3 @@ Implemented Features:
 - View all profiles
 - Delete profile
 - Uses JavaBean, Servlet, JSP, and database
-
-- 
